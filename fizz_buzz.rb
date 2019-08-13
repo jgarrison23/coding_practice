@@ -1,1 +1,5 @@
-print "hello world"
+def fizzbuzz
+  print "fizzbuzz"
+end
+
+fizzbuzz
